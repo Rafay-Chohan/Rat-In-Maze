@@ -1,2 +1,4 @@
 # Rat-In-Maze
 Demonstration of Data Structure Algorithms using Stack And Queue
+C++ codes creates a simulation of a rat navigating a maze. It involves classes for managing point coordinates, a templated queue for path tracking, and a maze class for maze generation, rat movement, and pathfinding. The program allows users to input maze dimensions, generates a random maze layout, and guides the rat to find the shortest path to the destination using a breadth-first search strategy. The maze's graphical representation is enhanced using console functions to change colors and cursor positions. Upon reaching the destination, the program highlights the shortest path and indicates the player's victory. This code offers an interactive way to understand algorithms and data structures through maze-solving.
+Note: The stack version does not gurrantee a shortest path
